@@ -1,3 +1,4 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem 'jekyll-theme-slate', '~> 0.0.3'
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+gem 'github-pages', '>= 209', group: :jekyell_plugins
