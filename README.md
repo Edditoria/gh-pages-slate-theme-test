@@ -8,7 +8,7 @@ The Slate Theme by Github: <https://github.com/pages-themes/slate>
 
 # Where to Start?
 
-1. `git clone https://github.com/Edditoria/gh-pages-slate-theme-test.git`
+1. `git clone https://github.com/Edditoria/github-pages-slate-theme-test.git`
 2. Double check your Ruby version stated in `.ruby-version` file
 3. `bundle`
 4. `bundle exec jekyll serve`
