@@ -2,7 +2,9 @@
 
 This repo is only a test for slate theme for Jekyll for Github Pages.
 
-Nothing special.
+Specifically this is created for [pull request #3](https://github.com/pages-themes/slate/pull/3) "Fix image overflow when media screen is smaller than 980px" on Github. Since this fix is long time ago (2017), I'm not sure it is still valid or not.
+
+The Slate Theme by Github: <https://github.com/pages-themes/slate>
 
 # Where to Start?
 
